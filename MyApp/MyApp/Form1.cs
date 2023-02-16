@@ -18,5 +18,10 @@ namespace MyApp
             int a =5;
             
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
