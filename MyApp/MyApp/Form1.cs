@@ -15,6 +15,8 @@ namespace MyApp
         public Form1()
         {
             InitializeComponent();
+            int a =5;
+            
         }
     }
 }
