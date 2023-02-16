@@ -15,13 +15,6 @@ namespace MyApp
         public Form1()
         {
             InitializeComponent();
-            int a =5;
-            
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
